@@ -56,4 +56,8 @@ All assignments should be hosted on github pages and links submitted to google c
 
 This is the coin side that will be used. They can be found in the assets/images folder
 
+This is the coin side that will be used. They can be found in the __assets/img__ folder
 
+![Heads](./assets/img/coinhead.jpeg)
+
+![Heads](./assets/img/cointails.jpeg)
